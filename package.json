@@ -1,0 +1,13 @@
+{
+  "name": "order-management-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "precious pwajok",
+  "license": "ISC",
+  "description": "order management api"
+}
